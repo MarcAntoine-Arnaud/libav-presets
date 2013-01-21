@@ -1,0 +1,5 @@
+{
+	"label" : "VOB - Mpeg II ( Intra Only - High Quality Encoding )",
+	"format" : "vob",
+	"video" : "MpegII-intra-hq"
+}

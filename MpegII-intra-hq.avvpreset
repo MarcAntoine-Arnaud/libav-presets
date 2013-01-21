@@ -1,0 +1,7 @@
+{
+	"label" : "Mpeg II ( Intra Only - High Quality Encoding )",
+	"videoCodec" : "mpeg2video",
+	"g" : 250,
+	"bf" : 2,
+	"b_strategy" : 1
+}
