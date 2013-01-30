@@ -1,0 +1,6 @@
+{
+	"label" : "ProResHQ",
+	"videoCodec" : "prores_kostya",
+	"prores_kostya_profile" : "hq",
+	"prores_kostya_bits_per_mb" : "240"
+}
