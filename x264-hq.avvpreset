@@ -1,0 +1,6 @@
+{
+	"label" : "x264HQ",
+	"videoCodec" : "libx264",
+	"libx264_profile" : "hq",
+	"b" : "36000000"
+}
