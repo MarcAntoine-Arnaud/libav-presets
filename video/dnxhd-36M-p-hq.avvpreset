@@ -1,0 +1,6 @@
+{
+	"label" : "DNxHD 36M progressif",
+	"videoCodec" : "dnxhd",
+	"b" : "36M",
+	"mbd" : "rd"
+}

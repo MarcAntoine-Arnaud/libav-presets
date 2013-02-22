@@ -1,0 +1,6 @@
+{
+	"label" : "DNxHD 145M interlace",
+	"videoCodec" : "dnxhd",
+	"b" : "145M",
+	"ildct" : true
+}

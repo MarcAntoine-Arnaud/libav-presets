@@ -1,0 +1,7 @@
+{
+	"label" : "DNxHD 220M interlace",
+	"videoCodec" : "dnxhd",
+	"b" : "220M",
+	"ildct" : true,
+	"mbd" : "rd"
+}
