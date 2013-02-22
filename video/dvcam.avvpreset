@@ -1,0 +1,5 @@
+{
+	"label" : "DVCAM",
+	"videoCodec" : "dvvideo",
+	"videoPixelFormat" : "yuv420p"
+}

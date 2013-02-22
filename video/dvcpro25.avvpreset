@@ -1,0 +1,5 @@
+{
+	"label" : "DVCPRO25",
+	"videoCodec" : "dvvideo",
+	"videoPixelFormat" : "yuv411p"
+}
