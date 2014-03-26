@@ -1,0 +1,5 @@
+{
+        "label" : "Motion Jpeg into mov",
+        "format" : "mov",
+        "video" : "mjpeg"
+}
